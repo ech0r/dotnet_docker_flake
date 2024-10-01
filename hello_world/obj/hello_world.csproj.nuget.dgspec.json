@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/john/dev/dotnet_docker_flake/hello_world/hello_world.csproj": {}
+  },
+  "projects": {
+    "/home/john/dev/dotnet_docker_flake/hello_world/hello_world.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/john/dev/dotnet_docker_flake/hello_world/hello_world.csproj",
+        "projectName": "hello_world",
+        "projectPath": "/home/john/dev/dotnet_docker_flake/hello_world/hello_world.csproj",
+        "packagesPath": "/home/john/.nuget/packages/",
+        "outputPath": "/home/john/dev/dotnet_docker_flake/hello_world/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/john/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/aqy7l4gb5b6hiqbk5q3kkv6yscd3n15a-dotnet-sdk-7.0.409/sdk/7.0.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/publish/hello_world
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/publish/hello_world.dll
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/publish/hello_world.deps.json
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/publish/hello_world.runtimeconfig.json
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/publish/hello_world.pdb

@@ -1,0 +1,14 @@
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/hello_world
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/hello_world.deps.json
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/hello_world.runtimeconfig.json
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/hello_world.dll
+/home/john/dev/dotnet_docker_flake/hello_world/bin/Release/net7.0/hello_world.pdb
+/home/john/dev/dotnet_docker_flake/hello_world/obj/Release/net7.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/john/dev/dotnet_docker_flake/hello_world/obj/Release/net7.0/hello_world.AssemblyInfoInputs.cache
+/home/john/dev/dotnet_docker_flake/hello_world/obj/Release/net7.0/hello_world.AssemblyInfo.cs
+/home/john/dev/dotnet_docker_flake/hello_world/obj/Release/net7.0/hello_world.csproj.CoreCompileInputs.cache
+/home/john/dev/dotnet_docker_flake/hello_world/obj/Release/net7.0/hello_world.dll
+/home/john/dev/dotnet_docker_flake/hello_world/obj/Release/net7.0/refint/hello_world.dll
+/home/john/dev/dotnet_docker_flake/hello_world/obj/Release/net7.0/hello_world.pdb
+/home/john/dev/dotnet_docker_flake/hello_world/obj/Release/net7.0/hello_world.genruntimeconfig.cache
+/home/john/dev/dotnet_docker_flake/hello_world/obj/Release/net7.0/ref/hello_world.dll

@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7AAmdmZ075gslBH7iCgKEJtFPM+hF5Vrv0KzOOCpBIQch21lnW8xL1+o9dRNl6Kr8wDC4VqokpkM6f9wm1Uxg==",
+  "success": true,
+  "projectFilePath": "/home/john/dev/dotnet_docker_flake/hello_world/hello_world.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
